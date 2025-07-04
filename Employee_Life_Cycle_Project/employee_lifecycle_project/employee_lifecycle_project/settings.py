@@ -37,8 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    
-    'management', #my app
+    #apps
+    'management', 
     'accounts',
 ]
 
@@ -102,7 +102,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'mudasir2477@gmail.com'
-EMAIL_HOST_PASSWORD = 'jsvmskelhzmxbenb '  # Use Gmail App Password
+EMAIL_HOST_PASSWORD = 'jsvmskelhzmxbenb '  #Gmail App Password
 EMAIL_USE_TLS = True
 
 
