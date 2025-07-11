@@ -93,7 +93,7 @@ employee_lifecycle_project/
 
 1. Clone Repository
 
-git clone https://github.com/your-username/employee-lifecycle-management.git
+git clone https://github.com/mudasir2419/Employee_Life_Cycle_Project.git
 cd employee-lifecycle-management
 
 
